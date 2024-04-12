@@ -1,0 +1,14 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Alex Gailis
+    uid: u7497023
+    phone: 0490151780
+#  - name: Shu Zhang
+#    uid: u7519580
+#    phone: 0402109688
+  - name: Pin-Shen Chang
+    uid: u7518626
+    phone: 04748894762
